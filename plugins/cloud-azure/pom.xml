@@ -22,7 +22,7 @@ governing permissions and limitations under the License. -->
     </parent>
 
     <artifactId>cloud-azure</artifactId>
-    <name>Plugin: Cloud: Azure</name>
+    <name>Plugin Cloud Azure</name>
     <description>The Azure Cloud plugin allows to use Azure API for the unicast discovery mechanism and add Azure storage repositories.</description>
 
     <properties>

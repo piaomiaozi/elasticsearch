@@ -12,7 +12,7 @@
     <groupId>org.elasticsearch.distribution</groupId>
     <artifactId>distributions</artifactId>
     <packaging>pom</packaging>
-    <name>Distribution: Parent POM</name>
+    <name>Distribution Parent POM</name>
 
     <properties>
         <!-- Adding a module to the distribution:

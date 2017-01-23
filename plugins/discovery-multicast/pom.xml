@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>discovery-multicast</artifactId>
-    <name>Plugin: Discovery: Multicast</name>
+    <name>Plugin Discovery Multicast</name>
     <description>The Multicast Discovery plugin allows discovery other nodes using multicast requests</description>
 
     <properties>

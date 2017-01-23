@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>analysis-kuromoji</artifactId>
-    <name>Plugin: Analysis: Japanese (kuromoji)</name>
+    <name>Plugin Analysis Japanese (kuromoji)</name>
     <description>The Japanese (kuromoji) Analysis plugin integrates Lucene kuromoji analysis module into elasticsearch.</description>
 
     <properties>

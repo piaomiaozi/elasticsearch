@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>mapper-attachments</artifactId>
-    <name>Plugin: Mapper: Attachments</name>
+    <name>Plugin Mapper Attachments</name>
     <description>The mapper attachments plugin adds the attachment type to Elasticsearch using Apache Tika.</description>
 
     <properties>

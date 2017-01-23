@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>lang-python</artifactId>
-    <name>Plugin: Language: Python</name>
+    <name>Plugin Language Python</name>
     <description>The Python language plugin allows to have python as the language of scripts to execute.</description>
 
     <properties>

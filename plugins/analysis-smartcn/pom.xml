@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>analysis-smartcn</artifactId>
-    <name>Plugin: Analysis: Smart Chinese (smartcn)</name>
+    <name>Plugin Analysis Smart Chinese (smartcn)</name>
     <description>Smart Chinese Analysis plugin integrates Lucene Smart Chinese analysis module into elasticsearch.</description>
 
     <properties>

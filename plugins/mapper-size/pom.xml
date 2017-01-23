@@ -22,7 +22,7 @@ governing permissions and limitations under the License. -->
     </parent>
 
     <artifactId>mapper-size</artifactId>
-    <name>Plugin: Mapper: Size</name>
+    <name>Plugin Mapper Size</name>
     <description>The Mapper Size plugin allows document to record their uncompressed size at index time.</description>
 
     <properties>

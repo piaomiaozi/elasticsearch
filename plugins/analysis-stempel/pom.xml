@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>analysis-stempel</artifactId>
-    <name>Plugin: Analysis: Polish (stempel)</name>
+    <name>Plugin Analysis Polish (stempel)</name>
     <description>The Stempel (Polish) Analysis plugin integrates Lucene stempel (polish) analysis module into elasticsearch.</description>
 
     <properties>

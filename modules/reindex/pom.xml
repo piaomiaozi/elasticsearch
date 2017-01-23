@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>reindex</artifactId>
-    <name>Module: Reindex</name>
+    <name>Module Reindex</name>
     <description>_reindex and _update_by_query APIs</description>
 
     <properties>

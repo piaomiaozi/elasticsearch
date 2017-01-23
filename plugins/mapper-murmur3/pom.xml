@@ -22,7 +22,7 @@ governing permissions and limitations under the License. -->
     </parent>
 
     <artifactId>mapper-murmur3</artifactId>
-    <name>Plugin: Mapper: Murmur3</name>
+    <name>Plugin Mapper Murmur3</name>
     <description>The Mapper Murmur3 plugin allows to compute hashes of a field's values at index-time and to store them in the index.</description>
 
     <properties>
