@@ -19,7 +19,10 @@
 
 package org.elasticsearch.index.analysis;
 
-import com.google.common.collect.Maps;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.Objects;
+
 import org.elasticsearch.common.inject.AbstractModule;
 import org.elasticsearch.common.inject.Scopes;
 import org.elasticsearch.common.inject.assistedinject.FactoryProvider;
@@ -29,9 +32,7 @@ import org.elasticsearch.index.analysis.compound.DictionaryCompoundWordTokenFilt
 import org.elasticsearch.index.analysis.compound.HyphenationCompoundWordTokenFilterFactory;
 import org.elasticsearch.indices.analysis.IndicesAnalysisService;
 
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Objects;
+import com.google.common.collect.Maps;
 
 /**
  *
@@ -402,6 +403,8 @@ public class AnalysisModule extends AbstractModule {
             analyzersBindings.processAnalyzer("stop", StopAnalyzerProvider.class);
             analyzersBindings.processAnalyzer("whitespace", WhitespaceAnalyzerProvider.class);
             analyzersBindings.processAnalyzer("keyword", KeywordAnalyzerProvider.class);
+            //TODO yang.gao
+//            analyzersBindings.processAnalyzer("ik", IkAnalyzerProvider.class);
         }
     }
 
